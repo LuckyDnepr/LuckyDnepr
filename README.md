@@ -3,8 +3,8 @@
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/800px-Flag_of_Ukraine.svg.png?20100406171642" height="50px"></p>
 
 <p align="center">
-I’m currently working as FullStack Developer in SysGears <img src="https://cdn3.sysgears.com/images/logo-128bacee32b1c70b00b6454397eeedc5.svg" alt="SysGears" height="40"/></strong>
-</p>
+I’m currently working as FullStack Developer in <strong> SysGears </strong>  </p>
+<p> <img src="https://cdn3.sysgears.com/images/logo-128bacee32b1c70b00b6454397eeedc5.svg" alt="SysGears" height="40"/></p>
 
 
 <h3 align="center">Languages and Tools:</h3>
